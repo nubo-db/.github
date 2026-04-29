@@ -6,7 +6,7 @@ Tooling for DynamoDB
 
 A DynamoDB-compatible engine in Rust, backed by SQLite. Single binary, no JVM, no Docker. Starts in milliseconds. Runs as an HTTP server, an MCP server for coding agents, or embeds directly into applications as a library.
 
-100% conformance across 526 tests validated against real DynamoDB.
+100% conformance across 601 tests validated against real DynamoDB.
 
 - [dynoxide.dev](https://dynoxide.dev) - documentation and quick start
 - [nubo-db/dynoxide](https://github.com/nubo-db/dynoxide) - source code
